@@ -1,4 +1,4 @@
-### Olá povo! ;)
+### Olá, pessoal! ;)
 ### Me chamo Jhonatan Marcelino 👋
 
 
