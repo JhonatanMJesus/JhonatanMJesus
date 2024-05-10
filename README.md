@@ -6,7 +6,7 @@
 Um pouco sobre mim:
 
 - 🔭 Atualmente trabalho como motorista de app porém focado nos estudos! 💪💡
-- 🎂 Tenho 25 anos
+- 🎂 Tenho 26 anos
 - 🌱 Estou cursando DSM - Desenvolvimento de software multiplataforma na FATEC - Jahu.
 - 📫 Entre em contato via e-mal: jhonatanjau98@gmail.com
 - ⚡ Fato curioso: prefiro moto do que carro 😅
