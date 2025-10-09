@@ -6,8 +6,8 @@
 Um pouco sobre mim:
 
 - 🎂 Tenho 27 anos
-- 🌱 Estou cursando DSM - Desenvolvimento de software multiplataforma na FATEC - Jahu.
-- 📫 Entre em contato via e-mal: jhonatanjau98@gmail.com
+- 🌱 Cursando DSM - Desenvolvimento de software multiplataforma na FATEC - Jahu.
+- 📫 Entre em contato via e-mal: jhonatanjau98@gmail.com ou linkedin [JhonatanMJesus](https://linkedin.com/in/jhonatanmjesus)
 
 ### Tecnologias que trabalho:
 
