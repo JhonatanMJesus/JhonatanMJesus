@@ -16,7 +16,6 @@ Um pouco sobre mim:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![VueJS](https://img.shields.io/badge/vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="350px" width="350px" align="right" alt="Computador iuriCode" />
 
